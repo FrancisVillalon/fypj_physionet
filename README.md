@@ -1,4 +1,4 @@
-# FRANCIS FYPJ PHYSIONET CHALLENGE FINAL SUBMISSION 
+# Final year project Physionet Challenge
 1. To run this on google colab please upload the "fypj_final_submission" folder into your google drive 
 2. Mount the google drive to google colab and the navigate to the folder
 3. The code needed to do this are already in each notebook
